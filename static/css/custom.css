@@ -202,7 +202,7 @@ a {
 .content code {
   font-family: 'Source Code Pro', monospace;
   background-color: #4c4f40;
-  border-radius: 1px;
+  border-radius: 2px;
   padding-left: 5px;
   padding-right: 5px;
 }
